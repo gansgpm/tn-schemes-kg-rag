@@ -1,0 +1,15 @@
+langchain>=0.3
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-openai        # swap for langchain-groq / langchain-google-genai if you use those
+sentence-transformers
+faiss-cpu
+networkx>=3.4
+rapidfuzz
+beautifulsoup4
+pypdf
+pydantic>=2
+python-dotenv
+pyvis
+streamlit
